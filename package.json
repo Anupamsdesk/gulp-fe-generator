@@ -1,0 +1,17 @@
+{
+  "name": "angular-gulp-generator",
+  "version": "0.0.0",
+  "description": "angular gulp generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anupam Singh (anupamsdesk@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-less": "^1.3.6",
+    "gulp-rimraf": "^0.1.0",
+    "gulp-webserver": "^0.8.1"
+  }
+}
